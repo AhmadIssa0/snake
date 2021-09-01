@@ -2,7 +2,7 @@
 A reinforcement learning deep Q-learning based AI that self learns to play the classic game Snake.
 
 ### Example run
-Here is an example run of the AI playing snake.
+Here is an example run of the trained AI agent playing.
 <p align="center">
 <img src="snake_7_2.gif"/>
 </p>
